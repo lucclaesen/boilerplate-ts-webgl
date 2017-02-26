@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+}
+
+canvas {
+    background-color: white;
+}
+
+/*:local(.bordered) {
+    border: solid black 1px;
+}*/
